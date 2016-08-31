@@ -138,3 +138,30 @@ test/test.R: https://drive.google.com/uc?id=0B4i1NR6IGIqeb1MyekFFLTd6NEU&authuse
 ```{r}
 test_mc(2) # if 2 is the correct option.
 ```
+
+--- type:RStudioMultipleChoiceExercise lang:r xp:50 skills:1
+## My RStudioMultipleChoiceExercise2
+
+other ex
+
+*** =instructions
+- option 1
+- option 2
+- option 3
+
+*** =hint
+hint
+
+*** =attachments
+folderA/some_screenshot.png: https://datacamp.slack.com/files/hugo/F166YLX8B/screen_shot_2016-05-04_at_6.03.00_pm.png
+.Rhistory: https://drive.google.com/uc?id=0B4i1NR6IGIqeWExyaG1MU1NIMEE&authuser=0&export=download open
+file2.R: https://drive.google.com/uc?id=0B4i1NR6IGIqedGgtTFlWTTBIZkk&authuser=0&export=download open
+./: https://s3.amazonaws.com/assets.datacamp.com/course/ggplot2/
+bla.R: https://s3.amazonaws.com/assets.datacamp.com/course/ggplot2/course_1/fish_plot.RData
+fish_species.RData: https://s3.amazonaws.com/assets.datacamp.com/course/ggplot2/course_1/fish_species.RData
+
+
+*** =sct
+```{r}
+test_mc(2) # if 2 is the correct option.
+```
