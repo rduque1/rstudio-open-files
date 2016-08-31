@@ -131,6 +131,8 @@ hint
 *** =attachments
 lp/first_file: https://datacamp.slack.com/files/hugo/F166YLX8B/screen_shot_2016-05-04_at_6.03.00_pm.png
 .Rhistory: https://drive.google.com/file/d/0B4i1NR6IGIqeWExyaG1MU1NIMEE/view?usp=sharing
+test/test.Rproj: https://drive.google.com/uc?id=0B4i1NR6IGIqedGgtTFlWTTBIZkk&authuser=0&export=download open
+test/test.R: https://drive.google.com/uc?id=0B4i1NR6IGIqeb1MyekFFLTd6NEU&authuser=0&export=download open
 
 *** =sct
 ```{r}
