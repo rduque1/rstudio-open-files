@@ -115,7 +115,7 @@ test_error()
 success_msg("Good work!")
 ```
 
---- type:RStudioMultipleChoiceExercise lang:r xp:50 skills:1
+--- type:RStudioMultipleChoiceExercise lang:r xp:50 skills:1 key:499e7eeeb7
 ## My RStudioMultipleChoiceExercise2
 
 Assignment comes here. Use Markdown for text formatting.
