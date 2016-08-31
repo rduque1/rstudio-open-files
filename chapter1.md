@@ -139,7 +139,7 @@ test/test.R: https://drive.google.com/uc?id=0B4i1NR6IGIqeb1MyekFFLTd6NEU&authuse
 test_mc(2) # if 2 is the correct option.
 ```
 
---- type:RStudioMultipleChoiceExercise lang:r xp:50 skills:1 key:499e7eeeb7
+--- type:RStudioMultipleChoiceExercise lang:r xp:50 skills:1 key:54bfe3baba
 ## My RStudioMultipleChoiceExercise
 
 other ex
@@ -166,7 +166,7 @@ fish_species.RData: https://s3.amazonaws.com/assets.datacamp.com/course/ggplot2/
 test_mc(2) # if 2 is the correct option.
 ```
 
---- type:RStudioMultipleChoiceExercise lang:r xp:50 skills:1 key:499e7eeeb7
+--- type:RStudioMultipleChoiceExercise lang:r xp:50 skills:1 key:ca3081b20c
 ## My RStudioMultipleChoiceExercise2234234
 
 Assignment comes here. Use Markdown for text formatting. 234324
