@@ -139,7 +139,7 @@ test/test.R: https://drive.google.com/uc?id=0B4i1NR6IGIqeb1MyekFFLTd6NEU&authuse
 test_mc(2) # if 2 is the correct option.
 ```
 
---- type:RStudioMultipleChoiceExercise lang:r xp:50 skills:1
+--- type:RStudioMultipleChoiceExercise lang:r xp:50 skills:1 key:499e7eeeb7
 ## My RStudioMultipleChoiceExercise2
 
 other ex
