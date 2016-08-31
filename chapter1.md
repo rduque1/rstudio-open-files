@@ -140,7 +140,7 @@ test_mc(2) # if 2 is the correct option.
 ```
 
 --- type:RStudioMultipleChoiceExercise lang:r xp:50 skills:1 key:499e7eeeb7
-## My RStudioMultipleChoiceExercise2
+## My RStudioMultipleChoiceExercise
 
 other ex
 
@@ -165,3 +165,22 @@ fish_species.RData: https://s3.amazonaws.com/assets.datacamp.com/course/ggplot2/
 ```{r}
 test_mc(2) # if 2 is the correct option.
 ```
+
+--- type:RStudioMultipleChoiceExercise lang:r xp:50 skills:1 key:499e7eeeb7
+## My RStudioMultipleChoiceExercise2234234
+
+Assignment comes here. Use Markdown for text formatting. 234324
+
+*** =instructions
+- option 1
+- option 2
+- option 3
+
+*** =hint
+hint
+
+*** =attachments
+lp/first_file: https://datacamp.slack.com/files/hugo/F166YLX8B/screen_shot_2016-05-04_at_6.03.00_pm.png
+.Rhistory: https://drive.google.com/file/d/0B4i1NR6IGIqeWExyaG1MU1NIMEE/view?usp=sharing
+test/test.Rproj: https://drive.google.com/uc?id=0B4i1NR6IGIqednUxT3BXM0phb1U&authuser=0&export=download open
+test/test.R: https://drive.google.com/uc?id=0B4i1NR6IGIqeb1MyekFFLTd6NEU&authuser=0&export=download
